@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "485687510133",
+    "project_id": "sociallogin-d497b",
+    "storage_bucket": "sociallogin-d497b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485687510133:android:3bfbe43b4617adae97e43c",
+        "android_client_info": {
+          "package_name": "com.bridgingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485687510133-bjr3lh87j1luea4kuav8378j89cprb5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bridgingdemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "485687510133-s6jr53p8ic5sslk5v39jmdibds8b7a8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PoLin3K7YjbK3_prrakDCmMnWFXwn-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485687510133-s6jr53p8ic5sslk5v39jmdibds8b7a8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485687510133-ldichm9vcolmj9ftabrgm42tovvrisvg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BridgingDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

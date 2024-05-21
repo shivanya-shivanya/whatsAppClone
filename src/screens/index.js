@@ -1,0 +1,13 @@
+export {default as InitialScreen} from './InitialScreen/InitialScreen';
+export {default as Login} from './Login/Login'
+export {default as Signup} from './Signup/Signup'
+export {default as Search} from './Search/Search'
+export {default as Notification} from './Notification/Notification'
+export {default as Profile} from './Profile/Profile'
+export {default as Home} from './Home/Home'
+export {default as Chats} from './Chats/Chats'
+export {default as Updates} from './Updates/Updates'
+export {default as Communities} from './Communities/Communities'
+export {default as Calls} from './Calls/Calls'
+export {default as Createpost} from './CreatePost/CreatePost'
+export {default as Splash} from './Splash/Splash'

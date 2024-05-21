@@ -1,0 +1,8 @@
+current directory: /Users/pooja/Documents/personalproject/BridgingDemo/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/pooja/.rvm/rubies/ruby-3.2.0/bin/ruby -I /Users/pooja/.rvm/rubies/ruby-3.2.0/lib/ruby/3.2.0 extconf.rb
+mkmf.rb can't find header files for ruby at /Users/pooja/.rvm/rubies/ruby-3.2.0/lib/ruby/include/ruby.h
+
+You might have to install separate package for the ruby development
+environment, ruby-dev or ruby-devel for example.
+
+extconf failed, exit code 1

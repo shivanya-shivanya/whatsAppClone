@@ -1,0 +1,6 @@
+module Pods_BridgingDemo {
+  umbrella header "Pods-BridgingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

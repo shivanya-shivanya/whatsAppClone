@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1241581384/BridgingDemo.react-native-fast-image.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/535386761/BridgingDemo.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/535386761/BridgingDemo.react-native-screens.main.iml" />
+    </modules>
+  </component>
+</project>

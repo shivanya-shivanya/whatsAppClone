@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_cam.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_cam.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_dot.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_dot.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_videocall.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_videocall.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_ml.jpeg.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_ml.jpeg"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_dummy.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_dummy.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_call.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_call.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_qr.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_qr.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_ssearch.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_ssearch.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_community.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_community.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_info.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_info.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_tester.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_tester.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_pm.jpeg.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_pm.jpeg"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.bridgingdemo.app-main-43:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_user.jpeg.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_user.jpeg"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_updates.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_updates.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_dev.jpeg.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_dev.jpeg"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_add.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_add.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_chat.png.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_chat.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/drawable-mdpi_src_assets_images_whtsapp.gif.flat",
+        "source": "com.bridgingdemo.app-res-36:/drawable-mdpi/src_assets_images_whtsapp.gif"
+    },
+    {
+        "merged": "com.bridgingdemo.app-merged_res-42:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bridgingdemo.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    }
+]
